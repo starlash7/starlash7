@@ -1,10 +1,8 @@
 <img src="https://i.imgur.com/mvYK1bK.png" width="400" alt="Pixymon" />
 <h2><b>Trainer @Pixymon</b></h2>
  
-<br/>
-I'm not an engineer, passionate about building things that make a difference
 
-<br/>
+I'm not an engineer, passionate about building things that make a difference
 
 Working with AI agents
 <br/>
