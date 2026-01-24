@@ -8,7 +8,7 @@ Working with AI agents
 <br/>
 <br/>
 
-![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-d97757?style=flat&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
