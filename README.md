@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/mvYK1bK.png" width="400" alt="Pixymon" />
+<img src="https://i.imgur.com/mvYK1bK.png" width="800" alt="Pixymon" /> 
 <h2><b>Trainer @Pixymon</b></h2>
  
 
