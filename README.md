@@ -1,13 +1,11 @@
-<img src="https://i.imgur.com/mvYK1bK.png" width="800" alt="Pixymon" /> 
+<img src="https://github.com/user-attachments/assets/29577a6f-06d1-4c65-8938-63d01ac51ddb" width="800" alt="Pixymon" />
+
 <h2><b>Trainer @Pixymon</b></h2>
  
-
 I'm not an engineer, passionate about building things that make a difference
-
 Working with AI agents
 <br/>
 <br/>
-
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=flat&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
