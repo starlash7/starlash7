@@ -2,8 +2,7 @@
 
 <h2><b>Trainer @Pixymon</b></h2>
  
-I'm not an engineer, passionate about building things that make a difference
-Working with AI agents
+Building with AI agents. Shipping weekly.
 <br/>
 <br/>
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=flat&logo=claude&logoColor=white)
