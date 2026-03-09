@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/29577a6f-06d1-4c65-8938-63d01ac51ddb" width="800" alt="Pixymon" />
 
-<h2><b>Trainer Pixymon</b></h2>
+<h2><b>Trainer @Pixymon</b></h2>
  
 Building with AI agents. Shipping weekly.
 <br/>
