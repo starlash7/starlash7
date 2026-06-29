@@ -1,3 +1,5 @@
+[![Tip on Arc](https://img.shields.io/badge/Tip%20on%20Arc-111111?style=for-the-badge&logo=ethereum&logoColor=white)](https://starlash7.github.io/Tip-on-Arc/)
+
 ### Marketer by day, builder by night.
 
 
