@@ -1,8 +1,5 @@
-<img src="https://github.com/user-attachments/assets/29577a6f-06d1-4c65-8938-63d01ac51ddb" width="800" alt="Pixymon" />
-
-<h2><b>Trainer @Pixymon</b></h2>
+ Building with AI agents. Shipping weekly.
  
-Building with AI agents. Shipping weekly.
 <br/>
 <br/>
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=flat&logo=claude&logoColor=white)
