@@ -1,4 +1,4 @@
-<a href="https://starlash7.github.io/Tip-on-Arc/"><img src="assets/tip-on-arc.png" alt="Tip on Arc" width="160"></a>
+<a href="https://starlash7.github.io/Tip-on-Arc/"><img src="assets/tip-on-arc-logo-only.png" alt="Tip on Arc" width="160"></a>
 
 ### Marketer by day, builder by night.
 
