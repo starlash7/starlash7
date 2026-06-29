@@ -1,4 +1,4 @@
-[![Tip on Arc](https://img.shields.io/badge/Tip%20on%20Arc-111111?style=for-the-badge&logo=ethereum&logoColor=white)](https://starlash7.github.io/Tip-on-Arc/)
+<a href="https://starlash7.github.io/Tip-on-Arc/"><img src="assets/tip-on-arc.png" alt="Tip on Arc" width="440"></a>
 
 ### Marketer by day, builder by night.
 
