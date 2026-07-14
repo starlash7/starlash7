@@ -1,6 +1,5 @@
 <div align="center">
 <img src="chart-year.svg" width="100%"/>
-<img src="chart-month.svg" width="100%"/>
 </div>
 
 <a href="https://starlash7.github.io/Tip-on-Arc/"><img src="assets/tip-on-arc-logo-only.png" alt="Tip on Arc" width="160"></a>
