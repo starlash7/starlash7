@@ -1,5 +1,5 @@
 <div align="center">
-<img src="chart-year.svg" width="100%"/>
+<img src="chart-daily.svg" width="100%"/>
 </div>
 
 
